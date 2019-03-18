@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_1">What is an activity in Android?</string>
+    <string name="question_1_option_1">Activity performs the actions on the screen</string>
+    //A
+    <string name="question_1_option_2">Manage the Application content</string>
+    <string name="question_1_option_3">Screen UI</string>
+    <string name="question_1_option_4">None of the above</string>
+
+
+    <string name="question_2">- What are the layouts available in android?</string>
+    <string name="question_2_option_1">Linear Layout</string>
+    <string name="question_2_option_2">Frame Layout</string>
+    <string name="question_2_option_3">Relative layout</string>
+    <string name="question_2_option_4">All of the above</string>
+    //D
+
+</resources>
